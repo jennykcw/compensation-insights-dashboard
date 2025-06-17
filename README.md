@@ -18,13 +18,13 @@ This project explores income distribution, salary movements, and compensation tr
 
 ## 📁 Repository Structure
 📁 data/
-------raw/     # Original datasets
-------cleaned/ # Cleaned datasets for analysis
+- raw/         # Original datasets
+- cleaned/     # Cleaned datasets for analysis
 
 📁 scripts/    # R scripts for data processing and visualization
-------load_and_inspect_data.R 
-------eda_income.R
-------clean_income_data.R 
+- load_and_inspect_data.R 
+- eda_income.R
+- clean_income_data.R 
 
 📁 viz_output/ # Exported chart PDFs
 
