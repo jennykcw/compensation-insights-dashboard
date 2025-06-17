@@ -17,6 +17,8 @@ This project explores income distribution, salary movements, and compensation tr
 - All charts exported to `viz_output/` as PDF files
 
 ## 📁 Repository Structure
+
+```
 📁 data/
 - raw/         # Original datasets
 - cleaned/     # Cleaned datasets for analysis
@@ -24,13 +26,14 @@ This project explores income distribution, salary movements, and compensation tr
 📁 scripts/    # R scripts for data processing and visualization
 - load_and_inspect_data.R 
 - eda_income.R
-- clean_income_data.R 
+- clean_income_data.R
 
 📁 viz_output/ # Exported chart PDFs
 
 📁 docs/       # Daily recaps and logs (optional)
 
 📄 README.md   # Project summary and structure
+```
 
 ## 🎓 Certification
 Google Data Analytics Professional Certificate (Coursera, 2025)
