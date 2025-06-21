@@ -24,10 +24,12 @@ This project explores income distribution, salary movements, and compensation tr
 - raw/         # Original datasets
 - cleaned/     # Cleaned datasets for analysis
 
-📁 scripts/    # R scripts for data processing and visualization
-- load_and_inspect_data.R 
-- eda_income.R
-- clean_income_data.R
+📁 scripts/    # R scripts for data processing, analysis and projection
+- load_and_inspect_data.R                # Load and preview income datasets
+- eda_income.R                           # Perform exploratory data analysis
+- clean_income_data.R                    # Clean datasets for occupation and industry
+- project_income_industry_predict.R      # Forecast income by industry (2001-2034)
+- project_income_occupation_predict.R    # Forecast occupation by industry (2001-2034)
 
 📁 viz_output/ # Exported chart PDFs
 
