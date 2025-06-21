@@ -14,6 +14,7 @@ This project explores income distribution, salary movements, and compensation tr
 - Median Income Trends by Percentile (p20, p50)
 - Income Comparison by Industry and Occupation (2024)
 - Multi-year Income Trend Lines (1996 - 2024)
+- Key Insights Summary on Income Patterns by Occupation & Industry (2001-2034)
 - All charts exported to `viz_output/` as PDF files
 
 ## 📁 Repository Structure
@@ -33,6 +34,7 @@ This project explores income distribution, salary movements, and compensation tr
 📁 docs/       # Daily recaps and insights summary (optional)
 - occupation_income_trend_analysis_integrated.docx       # Occupation trend analysis + recommendations
 - industry_income_trend_analysis_integrated.docx         # Industry trend analysis + recommendations
+- occupation_industry_highlights_summary.docx            # Combined occupation and industry trends for portfolio
 
 📄 README.md   # Project summary and structure
 ```
