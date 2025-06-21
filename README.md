@@ -31,7 +31,8 @@ This project explores income distribution, salary movements, and compensation tr
 📁 viz_output/ # Exported chart PDFs
 
 📁 docs/       # Daily recaps and insights summary (optional)
-- occupation_income_trend_analysis_integrated.docx       # Occupation trend analysis + recommendations 
+- occupation_income_trend_analysis_integrated.docx       # Occupation trend analysis + recommendations
+- industry_income_trend_analysis_integrated.docx         # Industry trend analysis + recommendations
 
 📄 README.md   # Project summary and structure
 ```
