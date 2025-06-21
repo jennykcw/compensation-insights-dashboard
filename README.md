@@ -1,6 +1,8 @@
 # 💼 Compensation Insights Dashboard
 *Capstone Project: Google Data Analytics Professional Certificate*
 
+## 🧩 Portfolio Ready ・ Completed June 2025
+
 ## 📌 Project Summary
 This project explores income distribution, salary movements, and compensation trends across industries and occupations in Singapore from  1996 to 2024. Built in R, this dashboard uncovers income patterns and benchmarking insights relevant to HR professionals, policymakers and compensation analysts.
 
