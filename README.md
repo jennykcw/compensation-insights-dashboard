@@ -19,6 +19,9 @@ This project explores income distribution, salary movements, and compensation tr
 - Key Insights Summary on Income Patterns by Occupation & Industry (2001-2034)
 - All charts exported to `viz_output/` as PDF files
 
+### 🖼️ Preview: Occupation Income Projection Chart
+[![Occupation Income Trend](viz_output/occupation_trend_preview.png)](viz_output/projection_occupation_income_trend.pdf)
+
 ## 📁 Repository Structure
 
 ```
